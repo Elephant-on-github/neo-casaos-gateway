@@ -211,8 +211,8 @@ changelog:
       - "^test:"
 release:
   github:
-    owner: IceWhaleTech
-    name: CasaOS-Gateway
+    owner: Elephant-on-github
+    name: neo-casaos-gateway
   draft: false
   prerelease: auto
   mode: replace
